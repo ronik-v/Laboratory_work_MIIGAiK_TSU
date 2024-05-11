@@ -1,0 +1,21 @@
+2024-05-11T10:36:14.761Z - [INFO] - Top-20 suspicious requests:
+2024-05-11T10:36:14.764Z - [INFO] - Request: GET /htp.js HTTP/1.1 - Occurs 83 times
+2024-05-11T10:36:14.765Z - [INFO] - Request: GET /logo HTTP/1.1 - Occurs 52 times
+2024-05-11T10:36:14.765Z - [INFO] - Request: POST /API HTTP/1.1 - Occurs 19 times
+2024-05-11T10:36:14.765Z - [INFO] - Request: GET /img/style.css HTTP/1.1 - Occurs 12 times
+2024-05-11T10:36:14.766Z - [INFO] - Request: GET /img/sof.css HTTP/1.1 - Occurs 12 times
+2024-05-11T10:36:14.766Z - [INFO] - Request: GET /img/helper.css HTTP/1.1 - Occurs 12 times
+2024-05-11T10:36:14.766Z - [INFO] - Request: GET /img/tools.js HTTP/1.1 - Occurs 12 times
+2024-05-11T10:36:14.766Z - [INFO] - Request: GET /folder?guid=35fb3d59-2122-41ff-84a8-b879e5cb7722 HTTP/1.1 - Occurs 11 times
+2024-05-11T10:36:14.766Z - [INFO] - Request: GET /folder?guid=05aae3f6-cdc4-4c49-be67-fd20536049b4 HTTP/1.1 - Occurs 11 times
+2024-05-11T10:36:14.767Z - [INFO] - Request: GET /administration HTTP/1.1 - Occurs 9 times
+2024-05-11T10:36:14.767Z - [INFO] - Request: GET /documents_share HTTP/1.1 - Occurs 8 times
+2024-05-11T10:36:14.767Z - [INFO] - Request: GET / HTTP/1.1 - Occurs 6 times
+2024-05-11T10:36:14.767Z - [INFO] - Request: GET /document_share?guid=7f9e76f7-7684-4f84-b1ea-f04e32c3677f&parent=35fb3d59-2122-41ff-84a8-b879e5cb7722 HTTP/1.1 - Occurs 6 times
+2024-05-11T10:36:14.767Z - [INFO] - Request: GET /document_share?guid=215991f3-96b1-413d-9d88-b223110e64aa&parent=35fb3d59-2122-41ff-84a8-b879e5cb7722 HTTP/1.1 - Occurs 6 times
+2024-05-11T10:36:14.768Z - [INFO] - Request: GET http://testp5.mielno.lubin.pl/testproxy.php HTTP/1.1 - Occurs 4 times
+2024-05-11T10:36:14.768Z - [INFO] - Request: GET http://testp1.piwo.pila.pl/testproxy.php HTTP/1.1 - Occurs 4 times
+2024-05-11T10:36:14.768Z - [INFO] - Request: GET /file_server HTTP/1.1 - Occurs 4 times
+2024-05-11T10:36:14.768Z - [INFO] - Request: POST /folder?guid=05aae3f6-cdc4-4c49-be67-fd20536049b4 HTTP/1.1 - Occurs 4 times
+2024-05-11T10:36:14.768Z - [INFO] - Request: GET http://162.252.240.124:80/gw.php HTTP/1.1 - Occurs 2 times
+2024-05-11T10:36:14.769Z - [INFO] - Request: GET /script HTTP/1.1 - Occurs 2 times
