@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "compromise": "^14.13.0",
+    "fs": "^0.0.1-security",
+    "npmlog": "^7.0.1",
+    "npmlog-file": "^0.1.4",
+    "sleep": "^6.3.0",
+    "winston": "^3.13.0"
+  }
+}
